@@ -1,1 +1,1 @@
-# Stock_markey_predictor
+# Stock_market_predictor
